@@ -11,12 +11,14 @@
 | [0015-3sum](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0169-majority-element](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Two Pointers
 |  |
@@ -35,6 +37,7 @@
 | ------- |
 | [0015-3sum](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0169-majority-element](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -45,6 +48,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Math
 |  |
 | ------- |
@@ -53,4 +57,12 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0268-missing-number) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
