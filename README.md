@@ -10,6 +10,7 @@
 | [0011-container-with-most-water](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0283-move-zeroes](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,6 +21,7 @@
 | [0011-container-with-most-water](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0016-3sum-closest) |
+| [0283-move-zeroes](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
