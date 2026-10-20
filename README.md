@@ -12,6 +12,7 @@
 | [0016-3sum-closest](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0054-spiral-matrix](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+| [0118-pascals-triangle](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0169-majority-element](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -74,4 +75,8 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
