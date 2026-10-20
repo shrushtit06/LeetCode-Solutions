@@ -11,6 +11,7 @@
 | [0015-3sum](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0054-spiral-matrix](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0169-majority-element](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0283-move-zeroes) |
@@ -65,4 +66,12 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0169-majority-element) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
