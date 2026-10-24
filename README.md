@@ -12,6 +12,7 @@
 | [0016-3sum-closest](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0075-sort-colors) |
@@ -57,6 +58,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0169-majority-element) |
 ## Math
 |  |
@@ -88,6 +90,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/shrushtit06/LeetCode-Solutions/tree/master/0119-pascals-triangle-ii) |
 ## Quicksort
